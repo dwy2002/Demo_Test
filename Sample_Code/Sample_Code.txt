@@ -6,4 +6,4 @@ add the 5th line as the patch fixed
 add the line as the master code line continue feature development 
 patch finished
 add in the source tree
-add in the source tree with the master branch
+add in the sourcetree in development branch
