@@ -1,0 +1,8 @@
+add new line in my first git code.
+add the 2nd line.fixed the code in the patch
+add the 3rd line in the local
+add the 4th line in the cloud
+add the 5th line as the patch fixed
+add the line as the master code line continue feature development 
+patch finished
+add in the source tree
